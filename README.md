@@ -3,3 +3,6 @@
 This is the repository for the collection of traffic dataset for Traffic Forecasting.
 # Relevant Repositories
 [GCN4traffic](https://github.com/jwwthu/GNN4Traffic)
+#Domestic traffic dataset
+#Foreign traffic dataset
+
