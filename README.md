@@ -18,5 +18,9 @@ Traffic Prediction [Link](https://github.com/aprbw/traffic_prediction)
 
 GCN4traffic [Link](https://github.com/jwwthu/GNN4Traffic)
 # Domestic traffic dataset
+
 # Foreign traffic dataset
+PeMSD4 records two months of statistics on traffic flow, ranging from Jan 1st 2018 to Feb 28th 2018, including 307 sensors on the highways of San Francisco Bay. We choose data on the first 50 days as the training set and valid set, and the remaining 9 days as the test set.  
+PeMSD8 contains two months of statistics on traffic flow, ranging from July 1st 2016 to Aug 31st 2016, including 170 sensors on the highways of San Bernardino. We select data on the first 50 days as the training set and valid set, and the remaining 12 days as the test set.
+
 
